@@ -52,7 +52,8 @@ Variations on a theme in implementing some priority queues.  These have wide app
 
 ## 6 Huffman Encoding
 
-![alt tag](2013_spring/06-huffman-encoding/encoding.jpg)
+![alt tag](2013_spring/06-huffman-encoding/markus-spiske-FXFz-sW0uwo-unsplash.jpg)
+Photo by Markus Spiske on Unsplash
 
 Implement a program to compress / decompress any kind of file using Huffman's variable-length, prefix-unique algorithm which ascribes the shortest bit encodings to the most frequently occurring symbols and longer encodings to less frequent symbols.  At the heart of the algorithm are encoding trees that look like this:
 
