@@ -36,7 +36,7 @@ The course included 7 assignments.
 
 [[overview]](assignments/README.md) [[code]](assignments/2013_spring)
 
-![alt tag](assignments/images/joshua-sortino-LqKhnDzSF-8-unsplash.png)
+![alt tag](assignments/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg)
 Photo by Joshua Sortino on Unsplash
 
 ## Chapter Highlights
